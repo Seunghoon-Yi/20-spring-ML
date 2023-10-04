@@ -1,2 +1,1 @@
-# 20-spring-ML
-SNU 20-spring ML lecture assignment and project codes
+20-1 서울대학교 기계학습의 기초 및 전기정보 응용 수업 과제 및 프로젝트
