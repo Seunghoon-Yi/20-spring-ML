@@ -8,4 +8,4 @@
 
 ### Final Project 설명
 * Model : ResNet-34를 변형한 CNN + LSTM 
-* Training : [Kaggle recaptcha dataset](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images/data) finetuning으로 수업 내 private test dataset에서 **character level accuracy 97.09%, string level accuracy 80.0% 달성
+* Training : [Kaggle recaptcha dataset](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images/data) finetuning으로 수업 내 private test dataset에서 **character level accuracy 97.09%, string level accuracy 80.0%** 달성
